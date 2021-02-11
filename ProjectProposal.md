@@ -12,7 +12,7 @@
 
 ## I. Introduction
 
-Our project A.V.E.R.I. will be a Google Chrome extension that further enhances Google’s voice recognition capabilities. The motivation for the project is J.A.R.V.I.S. from Marvel. While several voice assistants already exist in the market, we want to improve on their capabilities. For example, Google Assistant is a voice-controlled “personal assistant” that can perform various tasks for users - it can find information online, send messages, access information from calendars, set reminders, and several other features. With A.V.E.R.I., we want to build on these existing features by creating a voice recognition functionality for personalized, situation-based reminders and tasks. Members of the team have experience with C++ and are familiar with Python, HTML, and CSS.
+Our project A.V.E.R.I., which stands for Another Voice Expert Recognition Interface, will be a Google Chrome extension that further enhances Google’s voice recognition capabilities. The motivation for the project is J.A.R.V.I.S. from Marvel. While several voice assistants already exist in the market, we want to improve on their capabilities. For example, Google Assistant is a voice-controlled “personal assistant” that can perform various tasks for users - it can find information online, send messages, access information from calendars, set reminders, and several other features. With A.V.E.R.I., we want to build on these existing features by creating a voice recognition functionality for personalized, situation-based reminders and tasks. Members of the team have experience with C++ and are familiar with Python, HTML, and CSS.
 
 ## II. Customer Value
 
