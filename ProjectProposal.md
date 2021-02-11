@@ -31,7 +31,7 @@ We will use the guidelines from Chrome Developers to build the system with HTML 
 
 ## IV. Team
 
-None of the members of the team have built something like this before. All members of the team have proficiency in C++ and are familiar with Python, HTML, and CSS. None of the team has prior experience with backend development. This will be a new experience for the whole team.
+None of the members of the team have built something like this before. All members of the team have proficiency in C++ and are familiar with Python, HTML, and CSS. None of the team has prior experience with backend development. This will be a new experience for every member.
 
 Every team member will have an equal part to play in the project. We have designated preliminary roles for each team member. The roles for this project will constantly be rotating as each team member looks to gain experience in multiple areas of the project.
 
