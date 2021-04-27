@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916723899489",
+    "project_id": "averi-817ef",
+    "storage_bucket": "averi-817ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916723899489:android:be6b9b48db9c0ec5931e20",
+        "android_client_info": {
+          "package_name": "com.example.avery3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916723899489-sk6da63d72en417p8uek7qp6u57ckr8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlSQqiwc8DPCH7wQ13C0oFOpv4hz4vW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916723899489-sk6da63d72en417p8uek7qp6u57ckr8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

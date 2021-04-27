@@ -8,9 +8,8 @@
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="35dp"
+        android:layout_width="329dp"
+        android:layout_height="49dp"
         android:layout_marginBottom="300dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -44,11 +43,12 @@
         android:id="@+id/textView"
         android:layout_width="149dp"
         android:layout_height="76dp"
+        android:layout_marginTop="24dp"
         android:text="Create New Task"
         android:textAlignment="center"
         android:textColor="#6D60F8"
         android:textSize="30sp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/textInputLayout2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -80,8 +80,8 @@
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout"
-        android:layout_width="408dp"
-        android:layout_height="270dp"
+        android:layout_width="325dp"
+        android:layout_height="224dp"
         android:layout_marginTop="230dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -89,8 +89,8 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:layout_width="match_parent"
-            android:layout_height="270dp"
+            android:layout_width="358dp"
+            android:layout_height="241dp"
             android:backgroundTint="#FFF7E3"
             android:textAlignment="viewStart" />
     </com.google.android.material.textfield.TextInputLayout>

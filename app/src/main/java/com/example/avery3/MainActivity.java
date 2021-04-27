@@ -14,6 +14,9 @@ import android.view.*;
 import android.content.Intent;
 import android.widget.ListView;
 
+import com.alan.alansdk.button.AlanButton;
+import com.alan.alansdk.AlanConfig;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 
@@ -78,6 +81,14 @@ public class MainActivity extends AppCompatActivity implements Serializable {
                 openNewEvent();
             }
         });
+
+        // Alan button
+        AlanButton alanButton = findViewById(R.id.alan_button);
+        // Alan config object
+        AlanConfig alanConfig = AlanConfig.builder()
+                .setProjectId("9f3eac9ead4581184f55bee4796c203f2e956eca572e1d8b807a3e2338fdd0dc/stage")
+                .build();
+        alanButton.initWithConfig(alanConfig);
     }
 
     public void openNewEvent() {
