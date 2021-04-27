@@ -3,6 +3,7 @@ package com.example.avery3;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Parcel;
 import android.util.Log;
@@ -36,7 +37,28 @@ public class MainActivity extends AppCompatActivity implements Serializable {
         }
 
         remindersList = findViewById(R.id.remindersList);
-        adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, android.R.id.text1, reminders);
+        adapter = new ArrayAdapter<Reminder>(this, android.R.layout.simple_list_item_1, android.R.id.text1, reminders) {
+            @Override
+            public View getView(int position, View convertView, ViewGroup parent) {
+                View row = super.getView(position, convertView, parent);
+                if(position % 5 == 0) {
+                    row.setBackgroundColor(Color.parseColor("#FFE2D4"));
+                }
+                else if (position % 5 == 1) {
+                    row.setBackgroundColor(Color.parseColor("#FFEED4"));
+                }
+                else if (position % 5 == 2){
+                    row.setBackgroundColor(Color.parseColor("#D4FFD6"));
+                }
+                else if (position % 5 == 3) {
+                    row.setBackgroundColor(Color.parseColor("#D4FFF3"));
+                }
+                else {
+                    row.setBackgroundColor(Color.parseColor("#8860F8"));
+                }
+                return row;
+            }
+        };
         remindersList.setAdapter(adapter);
 
         remindersList.setOnItemClickListener(new AdapterView.OnItemClickListener() {

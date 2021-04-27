@@ -35,7 +35,7 @@ public class addEvent extends AppCompatActivity {
     public void saveNewEvent() {
         String event = mEditText.getText().toString();
         Intent intent = new Intent(this, MainActivity.class);
-        intent.putExtra("reminder", event);
+        if (!event.equals(""))intent.putExtra("reminder", event);
         startActivity(intent);
     }
 }

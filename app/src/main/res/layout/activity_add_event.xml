@@ -6,95 +6,94 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="40dp"
-        android:layout_marginTop="24dp"
-        android:layout_marginBottom="16dp"
-        android:text="Actions:"
-        android:textSize="18sp"
-        app:layout_constraintBottom_toTopOf="@+id/textInputLayout"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout3" />
-
-    <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/textInputLayout3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout2"
-        tools:layout_editor_absoluteX="98dp">
-
-        <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/keyword"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:baselineAligned="false"
-            android:hint="Keyword" />
-    </com.google.android.material.textfield.TextInputLayout>
-
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="153dp">
+        android:layout_marginStart="35dp"
+        android:layout_marginBottom="300dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/newEventName"
-            android:layout_width="match_parent"
+            android:layout_width="343dp"
             android:layout_height="match_parent"
-            android:hint="Event Name" />
+            android:backgroundTint="#6D60F8"
+            android:hint="Description"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF" />
     </com.google.android.material.textfield.TextInputLayout>
-
-    <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/textInputLayout"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView3">
-
-        <com.google.android.material.textfield.TextInputEditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="Add link" />
-    </com.google.android.material.textfield.TextInputLayout>
-
-    <EditText
-        android:id="@+id/editTextTextMultiLine"
-        android:layout_width="314dp"
-        android:layout_height="246dp"
-        android:ems="10"
-        android:gravity="start|top"
-        android:inputType="textMultiLine"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout" />
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="40dp"
-        android:text="Note:"
-        android:textSize="18sp"
-        app:layout_constraintBottom_toTopOf="@+id/editTextTextMultiLine"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout" />
 
     <Button
         android:id="@+id/saveButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="352dp"
+        android:layout_height="52dp"
         android:text="Save"
+        android:textAlignment="viewStart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.593"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.945" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="149dp"
+        android:layout_height="76dp"
+        android:text="Create New Task"
+        android:textAlignment="center"
+        android:textColor="#6D60F8"
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextMultiLine" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.135" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="132dp"
+        android:layout_height="55dp"
+        android:text="Pick Place"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.389" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="132dp"
+        android:layout_height="55dp"
+        android:text="Pick Date"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.389" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout"
+        android:layout_width="408dp"
+        android:layout_height="270dp"
+        android:layout_marginTop="230dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            android:backgroundTint="#FFF7E3"
+            android:textAlignment="viewStart" />
+    </com.google.android.material.textfield.TextInputLayout>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

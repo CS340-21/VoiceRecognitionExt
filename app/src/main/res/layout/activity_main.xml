@@ -9,10 +9,12 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="72dp"
-        android:text="+ add new event"
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/ic_add"
+        android:backgroundTint="#6D60F8"
+        android:drawableTint="#6D60F8"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -44,5 +46,117 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/remindersList"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="114dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="380dp"
+        android:rotation="-90"
+        android:text="29 April"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="114dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="380dp"
+        android:rotation="-90"
+        android:text="30 April"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.75"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.501" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="114dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="380dp"
+        android:rotation="-90"
+        android:text="1 May"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.501" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="114dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="380dp"
+        android:rotation="-90"
+        android:text="28 April"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.25"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.501" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="114dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="380dp"
+        android:rotation="-90"
+        android:text="27 April"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.501" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:shape="ring"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/ic_launcher_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.096"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.022"
+        app:srcCompat="@drawable/ic_launcher_foreground"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="51dp"
+        android:layout_height="52dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.906"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.021" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="224dp"
+        android:text="April 27"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.092"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
