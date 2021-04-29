@@ -1,4 +1,4 @@
-# A.V.E.R.I. - Project Proposal
+# A.V.E.R.I. - Final Report
 
 ### Team Name: J.A.R.V.I.S. Aficionados
 
