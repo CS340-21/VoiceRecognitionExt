@@ -53,14 +53,14 @@ Every team member contributed as equally as we could have hoped.
 ## V. Project Management
 | Week          | Goals                                                                                         |
 |---------------|-----------------------------------------------------------------------------------------------|
-| 02/07 - 02/13 | - Create rough project proposal                                                                     |
-| 02/14 - 02/20 | - Complete and submit project proposal                                                              |                                
-| 02/21 - 02/25 | - Brainstorm basic features needed for A.V.E.R.I. and get familiar with Android Studio              |
-| 02/26 - 03/11 | - First Sprint: Start designing app prototype using Fimga                                           |
-| 03/12 - 03/25 | - Second Sprint: Start implementing functionalities for reminder actions                            |
-| 03/26 - 04/26 | - Third Sprint: Finish INSERT and begin final report                                                |
-| 04/27         | - Present project                                                                                   |
-| 04/29         | - Submit final report                                                                               |
+| 02/07 - 02/13 | - Create rough project proposal                                                               |
+| 02/14 - 02/20 | - Complete and submit project proposal                                                        |                                
+| 02/21 - 02/25 | - Brainstorm basic features needed for A.V.E.R.I. and get familiar with Android Studio        |
+| 02/26 - 03/11 | - First Sprint: Start designing app prototype using Figma                                     |
+| 03/12 - 03/25 | - Second Sprint: Start implementing functionalities for reminder actions                      |
+| 03/26 - 04/26 | - Third Sprint: Finish INSERT and begin final report                                          |
+| 04/27         | - Present project                                                                             |
+| 04/29         | - Submit final report                                                                         |
 
 We believe our original expectations for A.V.E.R.I. were quite ambitious, considering that none of our team members had previous experience with Android Studios or building a mobile application in general. Due to the difficulty of learning how to use Android Studios, we were not able to complete all of the goals we originally intended for A.V.E.R.I. A large portion of the problems we faced came with Android Studios. We faced various issues and bugs while working on the front-end and back-end components of the application. Because of the challenges we ran into in the Android development environment, we had to adjust our final goals and objectives. 
 
