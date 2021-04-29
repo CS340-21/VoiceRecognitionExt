@@ -46,7 +46,7 @@ As for coding the backend, we intended to implement all of the features that wer
                   
 Alan Studio powers our voice A.I. interface for A.V.E.R.I and seamlessly integrated well with Android Studio. The implementation was clean, but we did need to get more experience with Alan’s interface to maximize results. In order to test Alan’s functions, we simply spoke to Alan through Android Studio’s emulator and received feedback. Even though Alan is highly responsive to voice input, we had difficulty implementing Alan with storing our app’s user input (the additions of events) and Alan’s response to the saved input. As such in order to induce Alan to recognize the user’s input, we had to manually create his response in our demo to exemplify the desired capability for our app.                                
                  
-[here](https://www.youtube.com/watch?v=crhujoHZSGw).
+[A sample clip of A.V.E.R.I. can be found here](https://www.youtube.com/watch?v=crhujoHZSGw).
 
 
 ## IV. Team
