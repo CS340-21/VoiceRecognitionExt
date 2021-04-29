@@ -1,7 +1,5 @@
 # A.V.E.R.I. - Final Report
 
-### Voice Recognition Reminder Application
-
 ### Team Name: J.A.R.V.I.S. Aficionados
 
 ### Team Name for GitHub: VoiceRecognitionExt
@@ -13,11 +11,9 @@
 * [Kedar Vyas](https://github.com/kedarvyas)
 
 ## I. Introduction
-Our project A.V.E.R.I (Another Voice Expert Recognition Interface) is an Android app that allows users to set reminders based on events, distinguished by a date or location. A.V.E.R.I. allows users to set personalized, situation-based reminder events with voice recognition functionalities. The motivation for our project was J.A.R.V.I.S. from Marvel. J.A.R.V.I.S.’s capabilities of data storage and artificial intelligence hugely inspired us to create an application that can do a fraction of what J.A.R.V.I.S. can do. 
+Our project A.V.E.R.I (Another Voice Expert Recognition Interface) is an Android app that allows users to set reminder events based on a date or location. A.V.E.R.I. also allows users to set personalized, situation-based reminder events with some voice recognition functionalities. The motivation for our project was J.A.R.V.I.S. from Marvel. 
 
 Originally, we intended for A.V.E.R.I. to be a Google Chrome extension, but we changed A.V.E.R.I. to be a mobile application since voice recognition is easier to integrate with mobile apps. Along with this change, we refined our objectives for this project. Our first goal was to create a good UI prototype to determine the general layout and key features for our mobile app. After designing a prototype, we then wanted to develop the actual app. An important change to note is that we decided to switch our focus on the ability for users to set reminders based on a certain date or location, as opposed to situations or keywords. Lastly, we wanted to implement some voice recognition capabilities if we had remaining time.
-
-We are satisfied with our UI prototype, but our app did not reach our desired result since we faced many challenges. Nevertheless, we were able to create a basic functional app. We did manage to integrate voice A.I. by incorporating Alan.
 
 ## II. Customer Value
 In our project proposal, we defined our primary customer as anyone who does not have prior knowledge on technology or anyone who may need additional accessibility to perform commands. 
@@ -34,7 +30,8 @@ The Google Play Store will serve as the media for customers to write their revie
 
 <p align="center"><img src="https://i.imgur.com/6Hifp0Y.png" width="200" />
                   <img src="https://i.imgur.com/GpAbswj.png" width="200" /></p>
-
+                  
+[here](https://www.youtube.com/watch?v=crhujoHZSGw).
 
 
 ## IV. Team
@@ -54,6 +51,17 @@ As we progressed through the project, our roles became more static:
 Every team member contributed as equally as we could have hoped.
 
 ## V. Project Management
+| Week                | Goals                                                                                         |
+|---------------------|-----------------------------------------------------------------------------------------------|
+| 02/07 - 02/13 | - Create rough project proposal                                                                     |
+| 02/14 - 02/20 | - Complete and submit project proposal                                                              |                                
+| 02/21 - 02/25 | - Brainstorm basic features needed for A.V.E.R.I. and get familiar with Android Studio              |
+| 02/26 - 03/11 | - First Sprint: Start designing app prototype using Fimga                                           |
+| 03/12 - 03/25 | - Second Sprint: Start implementing functionalities for reminder actions                            |
+| 03/26 - 04/26 | - Third Sprint: Finish INSERT and begin final report                                                |
+| 04/27         | - Present project                                                                                   |
+| 04/29         | - Submit final report                                                                               |
+
 We believe our original expectations for A.V.E.R.I. were quite ambitious, considering that none of our team members had previous experience with Android Studios or building a mobile application in general. Due to the difficulty of learning how to use Android Studios, we were not able to complete all of the goals we originally intended for A.V.E.R.I. A large portion of the problems we faced came with Android Studios. We faced various issues and bugs while working on the front-end and back-end components of the application. Because of the challenges we ran into in the Android development environment, we had to adjust our final goals and objectives. 
 
 ## VI. Reflection
