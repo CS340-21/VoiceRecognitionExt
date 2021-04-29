@@ -1,3 +1,5 @@
+
+
 # A.V.E.R.I. - Final Report
 
 ### Team Name: J.A.R.V.I.S. Aficionados
@@ -25,6 +27,8 @@ The Google Play Store will serve as the media for customers to write their revie
 ## III. Technology
 
 <p align="center"><img src="https://i.imgur.com/oGotTnR.png" width="600" /></p>
+
+https://user-images.githubusercontent.com/47682369/116617829-4824b900-a90c-11eb-8553-63c90e425dfc.MOV
 
 
 
