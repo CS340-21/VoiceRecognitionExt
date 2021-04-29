@@ -35,13 +35,17 @@ The Google Play Store will serve as the media for customers to write their revie
 
 
 ## IV. Team
+
+### Skills: 
+All members of the team have proficiency in C++ and are familiar with Python, HTML, CSS, as well as back-end development. None of the members of the team have built something like this before, so thiis was a new experience for the entire team.
+
 In our project proposal, we designated preliminary roles for each team member:
 * Sehee: Back-end
 * Pei: Front-end and user interface/user experience
 * Andy: Back-end
 * Kedar: Front-end and user interface/user experience
 
-Additionally in our project proposal, we specified for roles to be rotating to allow each team member to gain experience in different areas of the project.
+Additionally in our project proposal, we specified for roles to be rotating to allow each team member to gain experience in different areas of the project. 
 
 As we progressed through the project, our roles became more static:
 * Sehee: User interface/user experience
