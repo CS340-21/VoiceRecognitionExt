@@ -16,9 +16,16 @@ Our project A.V.E.R.I (Another Voice Expert Recognition Interface) is an Android
 Originally, we intended for A.V.E.R.I. to be a Google Chrome extension, but we changed A.V.E.R.I. to be a mobile application since voice recognition is easier to integrate with mobile apps. Along with this change, we refined our objectives for this project. Our first goal was to create a good UI prototype to determine the general layout and key features for our mobile app. After designing a prototype, we then wanted to develop the actual app. An important change to note is that we decided to switch our focus on the ability for users to set reminders based on a certain date or location, as opposed to situations or keywords. Lastly, we wanted to implement some voice recognition capabilities if we had remaining time.
 
 ## II. Customer Value
+In our project proposal, we defined our primary customer as anyone who does not have prior knowledge on technology or anyone who may need additional accessibility to perform commands. 
 
+As previously mentioned, we originally intended A.V.E.R.I. to be a Google extension, but changed it to be an Android application. Moreover, we changed our focus on the ability to set reminders based on a date or location. Unfortunately, this shift in focus likely resulted in a loss of customer value. Fewer voice functionalities means users spend more time and effort manually setting reminders and lose the ease that comes with setting reminders through a voice assistant. Additionally, as there is already several existing software for setting reminders, our product likly decreased its market value.
+
+The Google Play Store will serve as the media for customers to write their reviews on. In regards to our customer-centric measures of success, we still believe that this will be based on how many users deem our app as an essential to their everyday life.
 
 ## III. Technology
+
+<p align="center"><img src="https://i.imgur.com/oGotTnR.png" width="600" /></p>
+
 
 
 ## IV. Team
