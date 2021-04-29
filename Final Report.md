@@ -23,20 +23,28 @@ As previously mentioned, we originally intended A.V.E.R.I. to be a Google extens
 The Google Play Store will serve as the media for customers to write their reviews on. In regards to our customer-centric measures of success, we still believe that this will be based on how many users deem our app as an essential to their everyday life.
 
 ## III. Technology
+<p align="center"><img src="https://i.imgur.com/YAuWC7b.png" width="400" /></p>   
+
+Above is our architecture for the app, we have a reminder class to save the information we needed to pass between the two main classes that represent the app pages within our app. The MainActivity class holds the main page to our app, which includes the reminders list, the calendar, and the add reminders button. The addEvent class holds the page to create a new reminder, with a description of the reminder, some notes for the reminder, and the save button which sends the information back to the mainActivity class.
+
+For this project, we utilized several different tools for the front end and back end. For the front end, we used Figma to create a prototype. For the back-end, since we could not implement Google’s Voice Recognition API for our app as discussed in our proposal, we decided to use Alan for our voice A.I. As planned, the actual development process was fully coded within Android Studio using XML for our app layout and Java for our functionality after we created our prototype.
+
+To create our prototype for the front-end, we utilized Figma as it offered a plethora of tools to seamlessly create a user interface with minimal coding involved. With Figma, we were also able to plan out how we should structure our code based on the features we wanted to implement. While planning out the design of our app, we focused on simplicity and functionality, as we wanted our app to be accessible for all users who wanted to utilize our app for its intended purpose. The simplicity of our app was also a deciding factor for the aesthetics of the interface, as we believed that the app should appeal to all users as well.
+ 
+For our app prototype, we designed a “Login” screen, a “Home” screen, and a “Create New Task” screen. 
 
 <p align="center"><img src="https://i.imgur.com/oGotTnR.png" width="600" /></p>
 
+In this prototype, we focused on what type of information would be presented to the user, as well as the specific layout of certain buttons. With the use of multiple screens and animations, we were able to simulate the actions that a potential user would make.
 
 <p align="center"><img src="https://media.giphy.com/media/oyvXFklsVt7UCbzGtK/giphy.gif" /></p>
 
-<p align="center"><img src="https://media.giphy.com/media/UDyy3dULC5K3v5Y3Vw/giphy.gif" /></p>
-
+As for coding the backend, we intended to implement all of the features that were planned out in the prototype. However, we focused on the main functionalities of our app for the majority of the development cycle, as such we were not able to include the login screen and implementation of the auto-filling of addresses with Google’s map api. During the development cycle, the main functionalities we worked on included implementing an “Add” button that would transition the app to the “Add Event” page, ensuring that when the user saves the event, the reminder would be appended to our list of reminders and saved within the app’s local data for future reference. Thanks to Android Studio’s integrated emulator function, coding the backend was met with a tool that allowed us to visualize and guarantee that our code was functioning correctly. We could easily see our different activity pages and test out the user experience within the emulator. We were also able to effortlessly debug our code with the tools offered in Android Studio, such as Gradle, which compiled our code and built the app within Android Studio. 
 
 <p align="center"><img src="https://i.imgur.com/6Hifp0Y.png" width="200" />
                   <img src="https://i.imgur.com/GpAbswj.png" width="200" /></p>
-                 
-                 
-<p align="center"><img src="https://i.imgur.com/YAuWC7b.png" width="400" /></p>                 
+                  
+Alan Studio powers our voice A.I. interface for A.V.E.R.I and seamlessly integrated well with Android Studio. The implementation was clean, but we did need to get more experience with Alan’s interface to maximize results. In order to test Alan’s functions, we simply spoke to Alan through Android Studio’s emulator and received feedback. Even though Alan is highly responsive to voice input, we had difficulty implementing Alan with storing our app’s user input (the additions of events) and Alan’s response to the saved input. As such in order to induce Alan to recognize the user’s input, we had to manually create his response in our demo to exemplify the desired capability for our app.                                
                  
 [here](https://www.youtube.com/watch?v=crhujoHZSGw).
 
