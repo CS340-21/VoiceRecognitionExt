@@ -51,8 +51,8 @@ As we progressed through the project, our roles became more static:
 Every team member contributed as equally as we could have hoped.
 
 ## V. Project Management
-| Week                | Goals                                                                                         |
-|---------------------|-----------------------------------------------------------------------------------------------|
+| Week          | Goals                                                                                         |
+|---------------|-----------------------------------------------------------------------------------------------|
 | 02/07 - 02/13 | - Create rough project proposal                                                                     |
 | 02/14 - 02/20 | - Complete and submit project proposal                                                              |                                
 | 02/21 - 02/25 | - Brainstorm basic features needed for A.V.E.R.I. and get familiar with Android Studio              |
