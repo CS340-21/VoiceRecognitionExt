@@ -54,7 +54,7 @@ Alan Studio powers our voice A.I. interface for A.V.E.R.I and seamlessly integra
 ## IV. Team
 
 ### Skills: 
-All members of the team have proficiency in C++ and are familiar with Python, HTML, CSS, as well as back-end development. None of the members of the team have built something like this before, so thiis was a new experience for the entire team.
+All members of the team have proficiency in C++ and are familiar with Python, HTML, CSS, as well as back-end development. None of the members of the team have built something like this before, so this was a new experience for the entire team.
 
 In our project proposal, we designated preliminary roles for each team member:
 * Sehee: Back-end
