@@ -50,7 +50,7 @@ As we progressed through the project, our roles became more static:
 Every team member contributed as equally as we could have hoped.
 
 ## V. Project Management
-Due to difficulty learning how to use Android Studios, we were not able to complete all of the goals we originally intended for A.V.E.R.I. In hindsight, we believe our original expectations for A.V.E.R.I. were quite ambitious, considering that none of our team members had previous experience with Android Studios or building a mobile application in general.
+We believe our original expectations for A.V.E.R.I. were quite ambitious, considering that none of our team members had previous experience with Android Studios or building a mobile application in general. Due to the difficulty of learning how to use Android Studios, we were not able to complete all of the goals we originally intended for A.V.E.R.I. A large portion of the problems we faced came with Android Studios. We faced various issues and bugs while working on the front-end and back-end components of the application. Because of the challenges we ran into in the Android development environment, we had to adjust our final goals and objectives. 
 
 ## VI. Reflection
 
