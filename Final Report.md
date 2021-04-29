@@ -26,11 +26,16 @@ The Google Play Store will serve as the media for customers to write their revie
 
 <p align="center"><img src="https://i.imgur.com/oGotTnR.png" width="600" /></p>
 
+
 <p align="center"><img src="https://media.giphy.com/media/UDyy3dULC5K3v5Y3Vw/giphy.gif" /></p>
+
 
 <p align="center"><img src="https://i.imgur.com/6Hifp0Y.png" width="200" />
                   <img src="https://i.imgur.com/GpAbswj.png" width="200" /></p>
-                  
+                 
+                 
+<p align="center"><img src="https://i.imgur.com/YAuWC7b.png" width="400" /></p>                 
+                 
 [here](https://www.youtube.com/watch?v=crhujoHZSGw).
 
 
