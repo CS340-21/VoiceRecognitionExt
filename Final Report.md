@@ -40,6 +40,7 @@ In our project proposal, we designated preliminary roles for each team member:
 * Pei: Front-end and user interface/user experience
 * Andy: Back-end
 * Kedar: Front-end and user interface/user experience
+
 Additionally in our project proposal, we specified for roles to be rotating to allow each team member to gain experience in different areas of the project.
 
 As we progressed through the project, our roles became more static:
