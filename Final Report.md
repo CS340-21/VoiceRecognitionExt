@@ -57,9 +57,9 @@ Every team member contributed as equally as we could have hoped.
 | 02/14 - 02/20 | - Complete and submit project proposal                                                        |                                
 | 02/21 - 02/25 | - Brainstorm basic features needed for A.V.E.R.I. and get familiar with Android Studio        |
 | 02/26 - 03/05 | - First Sprint: Start designing app prototype using Figma                                     |
-| 03/06 - 03/11 |<br>- Finalize prototype design and begin building<br>- Start on back-end development         |
+| 03/06 - 03/11 | - Finalize prototype design and begin building<br>- Start on back-end development             |
 | 03/12 - 03/25 | - Second Sprint: Start implementing functionalities for reminder actions                      |
-| 03/26 - 04/26 |<br>- Finalize front and backend development for actions<br>- Start final report              |
+| 03/26 - 04/26 | - Finalize front and backend development for actions<br>- Start final report                  |
 | 04/27         | - Present project                                                                             |
 | 04/29         | - Submit final report                                                                         |
 
