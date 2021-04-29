@@ -11,9 +11,9 @@
 * [Kedar Vyas](https://github.com/kedarvyas)
 
 ## I. Introduction
-Our project A.V.E.R.I (Another Voice Expert Recognition Interface) is an Android app that allows users to create personalized, situation-based reminder events using voice recognition. The motivation for our project was J.A.R.V.I.S. from Marvel. 
+Our project A.V.E.R.I (Another Voice Expert Recognition Interface) is an Android app that allows users to set reminder events based on a date or location. A.V.E.R.I. also allows users to set personalized, situation-based reminder events with some voice recognition functionalities. The motivation for our project was J.A.R.V.I.S. from Marvel. 
 
-Originally, we intended for A.V.E.R.I. to be a Google Chrome extension, but we changed A.V.E.R.I. to be a mobile application since voice recognition is easier to integrate with mobile apps. Due to this change, we changed our approach to this project. The first step in our project design was to create a good UI prototype to determine the general layout and key features for our mobile app. Then, we used the app prototype as a guide for developing the actual app. Lastly, we implemented some voice recognition capabilities.
+Originally, we intended for A.V.E.R.I. to be a Google Chrome extension, but we changed A.V.E.R.I. to be a mobile application since voice recognition is easier to integrate with mobile apps. Along with this change, we refined our objectives for this project. Our first goal was to create a good UI prototype to determine the general layout and key features for our mobile app. After designing a prototype, we then wanted to develop the actual app. An important change to note is that we decided to switch our focus on the ability for users to set reminders based on a certain date or location, as opposed to situations or keywords. Lastly, we wanted to implement some voice recognition capabilities if we had remaining time.
 
 ## II. Customer Value
 
